@@ -1,0 +1,116 @@
+# GLM-5.3-Flash — Desktop Coding Client
+
+> Lightweight, one-click native desktop client (Windows and Mac) for GLM-5.3-Flash, Z.AI's speed-tuned open-weights coding model — the model that was previewed anonymously as "0x Alpha" on OpenRouter and OpenCode Zen before its developers confirmed its identity to Bloomberg. Positioned strictly as a fast coding and agentic development assistant. GLM-5.3-Flash is the speed-and-efficiency variant of GLM-5.3 (the generation that ranks at the top of open-weights coding), carrying the same coding lineage in a faster, lighter, free package. Specs known from its 0x Alpha preview: 1.05M-token context, up to 131K output, multimodal input (text, images, video), strong long-horizon agentic coding. This client removes setup friction (API/CLI/points-plan) with a signed one-click installer, a local project library, and free access. Open weights are released. Differentiated from the full GLM-5.3 (maximum quality) as the fast/free/accessible tier.
+
+## Model: GLM-5.3-Flash
+
+- **Developer:** Z.AI (formerly Zhipu AI)
+- **Identity:** the "0x Alpha" stealth preview model, confirmed by developers to Bloomberg
+- **Variant:** speed/efficiency cut of GLM-5.3 (the top open-weights coding generation)
+- **Context:** 1.05M tokens
+- **Output:** up to 131K tokens
+- **Multimodal:** text, image, video input
+- **Focus:** fast, long-horizon, agentic software engineering
+- **Weights:** released (Hugging Face: zai-org/GLM-5.3-Flash)
+- **Tier:** the free/accessible Flash tier of the GLM-5.3 generation
+
+## Scope (coding only)
+
+- Positioned exclusively as a fast coding / agentic development assistant
+- Use cases: real-time vibe-coding, whole-codebase work, agentic multi-step tasks, vision-assisted dev
+- NOT positioned for or marketed around any security/vulnerability/exploit tooling; no such features or examples
+
+## Why Flash
+
+- **Fast:** tuned for speed — responsive interactive coding, not long waits
+- **Same 5.3 coding lineage:** top open-weights coding strength, lighter package
+- **1M context:** whole codebase in view
+- **Multimodal:** build from screenshots, diagrams
+- **Big outputs:** large single-pass generations
+- **Free:** the accessible tier into GLM-5.3-class coding
+
+## Client Advantages
+
+- One-click signed installer: no terminal, Docker, API setup, or points system
+- Free access, no card to start
+- Lightweight and fast launch, Flash speed tuning on top
+- Local project library (code, prompts, history on the user's machine)
+- Open weights available for local self-hosting; app is the zero-setup option
+
+## Comparison
+
+| | GLM-5.3 (full) | DIY (llama.cpp/API) | GLM-5.3-Flash (this app) |
+|---|---|---|---|
+| Speed | Higher quality, heavier | Depends on setup | Fastest, tuned for it |
+| Cost | Paid tiers | Free self-run | Free |
+| Setup | API/CLI/points | Terminal, quant math | One click |
+| Context | 1M | 1M | 1M |
+| Coding | Top open-weights | Same model | GLM-5.3 lineage |
+| Local library | No | No | Yes |
+
+## Use Cases
+
+- Real-time vibe-coding (speed makes conversational building immediate)
+- Whole-codebase cross-file refactors (1M context)
+- Agentic, multi-step development tasks
+- Vision-assisted development (screenshots, mockups, diagrams)
+
+## Pricing Model
+
+- App: Free, MIT-licensed
+- GLM-5.3-Flash access: free (accessible Flash tier)
+- After: user's own Z.AI key or local self-host via released weights
+- No points system, no in-app subscription
+
+## Platform and Distribution
+
+- **Windows:** 10 and 11, signed .exe installer
+- **macOS:** 12+, notarized universal binary (Apple Silicon + Intel)
+- **Generation:** cloud (Z.AI) or local self-host (open weights released)
+- **Distribution:** GitHub releases, SHA-256 checksums published
+
+## Privacy and Security Model
+
+- Local project library, prompts, history on the user's machine
+- Generation prompts routed to GLM-5.3-Flash under Z.AI's terms (or local if self-hosted)
+- Signed installers with published SHA-256 checksums
+- MIT-licensed client, auditable source
+
+## Target Audience
+
+- Developers who followed the "0x Alpha" stealth launch and want it under its real name
+- Developers wanting fast, free, responsive coding without CLI/points setup
+- Vibe coders building in real time
+- Developers with whole-codebase and long-horizon agentic tasks
+- Users wanting a zero-setup way to use GLM-5.3-Flash's released weights
+
+## Comparable Tools
+
+- **GLM-5.3 (full)** — higher-quality tier of the same generation, paid
+- **GLM Coding Plan / ZCode (official)** — Z.AI official access, points system
+- **Cursor / GitHub Copilot** — closed-model IDE assistants
+- **Kimi K3 / Qwen3.8 / other open coders** — competing coding models
+- **OpenRouter / OpenCode Zen** — where it previewed as 0x Alpha
+
+This client's positioning: the fast, free Flash tier of the top open-weights coding generation — the model known as 0x Alpha — in a one-click app with a local project library, differentiated from the full GLM-5.3 by speed and accessibility.
+
+## Repository
+
+- **Source:** https://github.com/glm-5-3-flash/glm-5.3-flash
+- **Releases:** https://github.com/glm-5-3-flash/glm-5.3-flash/releases
+- **Issues:** https://github.com/glm-5-3-flash/glm-5.3-flash/issues
+- **License:** MIT
+
+## Common Questions
+
+**0x Alpha was this?** Yes — developers confirmed to Bloomberg the stealth model was GLM-5.3-Flash.
+
+**Is it free?** Yes, the accessible Flash tier; this app uses that access, no card to start.
+
+**Flash vs full 5.3?** Flash is faster/lighter/free; full targets max quality. Same generation and coding lineage.
+
+**Safe to install?** Signed, notarized, checksummed, official Z.AI weights.
+
+**Best at?** Fast agentic long-horizon coding, whole-repo work, 1M context, multimodal.
+
+**Mac?** Yes, notarized universal binary.
